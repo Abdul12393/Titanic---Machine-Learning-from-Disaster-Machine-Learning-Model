@@ -6,4 +6,7 @@ This project use machine learning to create a model that predicts which passenge
  3-Logistic Regression
 The competition and datasets had been published on kaggle 
 https://www.kaggle.com/c/titanic/overview
+
+# Model Accracy 88.26%
+
  
